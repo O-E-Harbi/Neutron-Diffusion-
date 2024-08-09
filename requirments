@@ -1,0 +1,14 @@
+## Installation
+
+To run this project, you'll need to have the following Python libraries installed:
+
+* NumPy
+* SciPy
+* Matplotlib
+* Plotly
+* Scikit-image (skimage)
+
+You can install these libraries using `pip`:
+
+```bash
+pip install numpy scipy matplotlib plotly scikit-image
